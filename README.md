@@ -1,4 +1,4 @@
-# 🗂️ Mini Task Management System – FRONTEND
+# 🗂️ Mini Task Management System – FRONTEND & Backend 
 
 ## 📘 Overview
 This project is a **Mini Task Management System** built with:
@@ -62,6 +62,8 @@ Example:
 | Libraries | Bootstrap 5, jQuery, SweetAlert |
 
 ---
+FrontendRepo - https://github.com/GamageSK/Mini-Task-Management-Systems-FRONTEND-
+BackendRepo  - https://github.com/GamageSK/Mini-Task-Management-Systems-Backend-WITH-DB-
 
 ## 🧑‍💻 Developed By
 **Sanjula Kusal Gamage**
