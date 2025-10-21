@@ -62,8 +62,17 @@ Example:
 | Libraries | Bootstrap 5, jQuery, SweetAlert |
 
 ---
-FrontendRepo - https://github.com/GamageSK/Mini-Task-Management-Systems-FRONTEND-
-BackendRepo  - https://github.com/GamageSK/Mini-Task-Management-Systems-Backend-WITH-DB-
+## 🚀 Project Repositories
+
+### 🖥️ **Frontend Repository**
+👉 **[Mini Task Management System – FRONTEND](https://github.com/GamageSK/Mini-Task-Management-Systems-FRONTEND-)**
+
+### 🧠 **Backend Repository**
+👉 **[Mini Task Management System – BACKEND (WITH DB)](https://github.com/GamageSK/Mini-Task-Management-Systems-Backend-WITH-DB-)**
+
+> 🔥 **These two repositories are the core of the entire system — make sure both are cloned and configured properly before running the application.**
+
+---
 
 ## 🧑‍💻 Developed By
 **Sanjula Kusal Gamage**
